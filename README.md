@@ -64,7 +64,7 @@ Each response is evaluated on:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Install Ollama from https://ollama.com  
 2. Pull the model:
 ```
